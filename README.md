@@ -11,8 +11,8 @@ to succeed in this particular field.
 3. A RESTFul API with numerus endpoints
 
 ## DEMO:
-[Quiz Application](https://ppanayiotou2.com)<br/>
-[Dashboard Application](https://ppanayiotou2.com/dashboard/view-questions.php)
+->[Quiz Application](https://ppanayiotou2.com)<br/>
+->[Dashboard Application](https://ppanayiotou2.com/dashboard/view-questions.php)
 
 Example of an API endpoint:<br/> 
-[https://ppanayiotou2.com/quizapi/public/api/questions/22](https://ppanayiotou2.com/quizapi/public/api/questions/22)
+->[https://ppanayiotou2.com/quizapi/public/api/questions/22](https://ppanayiotou2.com/quizapi/public/api/questions/22)
